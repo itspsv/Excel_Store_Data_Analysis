@@ -20,3 +20,6 @@ Use this data to:
 - Optimize marketing strategies based on demographic insights.
 - Improve order fulfillment processes.
 - Evaluate the effectiveness of various sales channels.
+
+# Dashboard
+![Alt text](Report.png)
